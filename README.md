@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src=""/>
+  <img src="./HEllo.gif"/>
 </div>
 
 <!--내용 부분-->
@@ -62,8 +62,10 @@
     <img
       src="https://img.shields.io/badge/wjws9608@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  
 </div>
 
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanwj75&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanwj75&layout=compact)
+
