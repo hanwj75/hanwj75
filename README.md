@@ -87,3 +87,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanwj75&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanwj75&layout=compact)
 
+
+<img src="https://github.com/hanwj75/hanwj75/blob/output/github-contribution-grid-snake.svg"/>
