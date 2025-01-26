@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Rider-2C2C32.svg?style=for-the-badge&logo=rider&logoColor=22ABF3" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
-
+       
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
